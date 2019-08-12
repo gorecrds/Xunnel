@@ -1,0 +1,4 @@
+[submodule "katyukha/odoo-helper-scripts"]
+	path = katyukha/odoo-helper-scripts
+	url = git@github.com:katyukha/odoo-helper-scripts.git
+	branch = dev
